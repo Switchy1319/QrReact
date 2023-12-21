@@ -5,7 +5,7 @@ import Btndavit from '../text/Btndavit'
 const White = () => {
   return (
     <div className='box'>
-        <img src="/srcc/qr-code.svg" alt=""  className='asd'/>
+        <img src="/public/srcc/qr-code.svg" alt=""  className='asd'/>
         <Btndavit />
     </div>
   )
