@@ -1,0 +1,12 @@
+.dd{
+    width: 288px;
+height: 288px;
+flex-shrink: 0;
+background-color: #2C7DFA;
+border-radius: 10px;
+margin-top: 16px;
+
+}
+.ph{
+    margin: 64px;
+}

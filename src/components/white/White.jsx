@@ -1,11 +1,12 @@
 import React from 'react'
 import './white.css'
 import Btndavit from '../text/Btndavit'
+import Qrcode from '../qrcode/Qrcode'
 
 const White = () => {
   return (
     <div className='box'>
-        <img src="/public/srcc/qr-code.svg" alt=""  className='asd'/>
+        <Qrcode />
         <Btndavit />
     </div>
   )
