@@ -1,0 +1,18 @@
+.box{
+    display: grid;
+    justify-content: center;
+    margin-top: 100px;
+    width: 320px;
+height: 497px;
+flex-shrink: 0;
+    border-radius: 20px;
+background: var(--White, #FFF);
+box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
+background-image: url(/public/srcc/oval.svg);
+background-repeat: no-repeat;
+background-position: top 16px left 16px;
+}
+.asd{
+    margin-top: 80px;
+    margin-left: 64px;
+}
